@@ -1,0 +1,36 @@
+.J{
+    color: black;
+}
+.G{
+    color:  black;
+}
+p{
+    text-align: center;
+    font-weight: 900;
+    font-size: 32px;
+}
+.an{
+    text-align: left;
+    font-weight: 900;
+    font-size: 16px;
+}
+.ad{
+    text-align: left;
+    font-weight: 100;
+    font-size: 16px;
+}
+.as{
+    background-color: rgb(216, 0, 255)
+}
+.as{
+    width: 360px;
+}
+.KO{
+    color: brown;
+}
+.ko{
+    color: blue;
+}
+.ai{
+    background-color: red;
+}
